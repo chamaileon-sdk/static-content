@@ -13,6 +13,7 @@ It is important to keep the \img folder and the images, but you can over write a
 During Real Time Editor initialization you can pass down a settings object to the plugin, you can add a baseUrl field. 
 As a value add the full Url of the \img forlder. 
 
-For example if your host the \img folder at "https://www.yourdomain.com/.../img" you have to add "https://www.yourdomain.com/.../" as a value. 
+For example if your host the \img folder at "https://www.yourdomain.com/.../img" you have to add "https://www.yourdomain.com/.../" as a value.
+
 Pls don't forget about the closing "/". 
  
