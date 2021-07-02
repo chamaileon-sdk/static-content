@@ -14,5 +14,5 @@ During Real Time Editor initialization you can pass down a settings object to th
 As a value add the full Url of the \img forlder. 
 
 For example if your host the \img folder at "https://www.yourdomain.com/.../img" you have to add "https://www.yourdomain.com/.../" as a value. 
-Pls don't forget about the closing /. 
+Pls don't forget about the closing "/". 
  
