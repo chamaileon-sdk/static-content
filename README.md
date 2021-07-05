@@ -20,7 +20,7 @@ As a value add the full Url of the \img forlder.
 				blockLibraries: [...],
 				addons: { ... },
 				baseUrl: "https://www.yourdomain.com/.../",
-		}
+		  }
 
 For example if your host the \img folder at "https://www.yourdomain.com/.../img" you have to add "https://www.yourdomain.com/.../" as a value.
 
