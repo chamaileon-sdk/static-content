@@ -14,6 +14,7 @@ During Real Time Editor initialization you can pass down a settings object to th
 
 As a value add the full Url of the \img forlder.
 
+```
 settings: {
 		buttons: { header: [...]	},
 		elements: {...},
@@ -21,6 +22,7 @@ settings: {
 		addons: { ... },
 		baseUrl: "https://www.yourdomain.com/.../",
 }
+```
 
 For example if your host the \img folder at "https://www.yourdomain.com/.../img" you have to add "https://www.yourdomain.com/.../" as a value.
 
