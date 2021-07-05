@@ -22,7 +22,7 @@ chamaileonPlugins.editEmail({
 		elements: { ... },
 		blockLibraries: [ ... ],
 		addons: { ... },
-		baseUrl: "https://chamaileon-img.netlify.app/",
+		baseUrl: "https://www.yourdomain.com/.../",
 	},
 	hooks: { ... }
 })
