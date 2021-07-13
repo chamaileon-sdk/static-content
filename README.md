@@ -10,7 +10,7 @@ It is important to keep the \img folder and the file structure, but you can over
 
 ## Add baseUrl to the settings object
 
-During Real Time Editor initialization you can pass down a settings object to the plugin, and you can add a baseUrl field.
+During Real Time Editor initialization you can pass down a settings object to the plugin, and you can add a "staticAssetsBaseUrl" field.
 
 As a value add the full Url of the \img forlder.
 
@@ -22,7 +22,7 @@ chamaileonPlugins.editEmail({
 		elements: { ... },
 		blockLibraries: [ ... ],
 		addons: { ... },
-		baseUrl: "https://www.yourdomain.com/.../",
+		staticAssetsBaseUrl: "https://www.yourdomain.com/.../",
 	},
 	hooks: { ... }
 })
